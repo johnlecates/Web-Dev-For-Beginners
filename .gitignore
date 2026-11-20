@@ -356,3 +356,4 @@ MigrationBackup/
 
 # Mac-specific
 .DS_Store
+.PATS.env
